@@ -5,6 +5,7 @@
   },
   "production": {
     "apiUrl": "http://localhost:2368",
-    "contentApiKey": "52a022c852a8cebde5c5a8792b"
+    "contentApiKey": "52a022c852a8cebde5c5a8792b",
+    "siteUrl": "http://masterkim.site"
   }
 }
